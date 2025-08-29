@@ -46,3 +46,6 @@ scripts/                   # (Reserved for Python scripts)
 
 ## License
 This project is for educational and analytical purposes.
+
+## Author
+Nagaraj S Navada
