@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Sales Analysis
 
 This project analyzes sales data from an e-commerce platform using Python. It includes data cleaning, exploration, and output generation to provide insights into customer behavior, product performance, and sales trends.
@@ -49,3 +50,7 @@ This project is for educational and analytical purposes.
 
 ## Author
 Nagaraj S Navada
+=======
+# E-Commerce-Sales_Data-Cleaning
+This project focuses on cleaning and analyzing an E-Commerce sales dataset.  It involves handling missing values, removing duplicates, correcting data types, detecting outliers, and performing basic exploratory data analysis (EDA) to gain insights.
+>>>>>>> 6b184a0ce8eb44aaf3c718c8d0e0a3529f87c83c
